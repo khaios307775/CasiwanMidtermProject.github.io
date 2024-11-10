@@ -1,0 +1,24 @@
+p {
+	text-align:center;
+	margin-top: 150px;
+	font-weight: bold;
+}
+table, th, td, tr {
+	margin-top: 50px;
+	width: 40%;
+	margin-left: 405px;
+    border: 2px solid red;
+    text-align: center;
+}
+th {
+	color: white;
+	background-color: red;
+}
+.course {
+	color: red;
+}
+p {
+	color: indianred;
+}
+
+	
